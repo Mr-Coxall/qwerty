@@ -1,0 +1,76 @@
+[
+  {
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "frame" : "{{0, 0}, {240, 240}}",
+    "selected" : false,
+    "nodes" : [
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 20,
+          "text" : "Anna Devlin",
+          "font_name" : "AmericanTypewriter",
+          "name" : "anna_devlin_label",
+          "text_color" : "RGBA(0.029245,0.029245,0.877358,1.000000)",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "custom_attributes" : "",
+          "uuid" : "3885CA54-43D8-4DB0-8C3C-9A6183BDCD82"
+        },
+        "frame" : "{{48, 37}, {147, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 20,
+          "text" : "Ottawa",
+          "font_name" : "AmericanTypewriter",
+          "name" : "ottawa_label",
+          "text_color" : "RGBA(0.029245,0.029245,0.877358,1.000000)",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "custom_attributes" : "",
+          "uuid" : "3885CA54-43D8-4DB0-8C3C-9A6183BDCD82"
+        },
+        "frame" : "{{48, 77}, {147, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 20,
+          "text" : "Ontario",
+          "font_name" : "AmericanTypewriter",
+          "name" : "ontario_label",
+          "text_color" : "RGBA(0.029245,0.029245,0.877358,1.000000)",
+          "class" : "Label",
+          "alignment" : "left",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "custom_attributes" : "",
+          "uuid" : "3885CA54-43D8-4DB0-8C3C-9A6183BDCD82"
+        },
+        "frame" : "{{48, 117}, {147, 34}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      }
+    ]
+  }
+]
